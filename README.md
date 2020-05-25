@@ -4,7 +4,7 @@
 
 ### Steps to run
 
-Inside irsidea(client) and irisidea(server):
+Run the following command in both the directories irsidea(client) and irisidea(server):
 `
 npm install
 `
